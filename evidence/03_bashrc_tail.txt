@@ -1,0 +1,4 @@
+ export DB_PASSWORD="labpass1r"
+ export DB_PASSWORD="labpass123r"
+ export DB_PASSWORD="labpass123""r"
+ export DB_PASSWORD="labpass123"
